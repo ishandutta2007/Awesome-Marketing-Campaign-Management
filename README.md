@@ -9,13 +9,8 @@
 
 ## 📋 Table of Contents
 
+- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [HubSpot Marketing Hub](#hubspot-marketing-hub)
-  - [Marketo Engage](#marketo-engage)
-  - [ActiveCampaign](#activecampaign)
-  - [Braze](#braze)
-  - [Klaviyo](#klaviyo)
-  - [Customer.io](#customerio)
 - [Open-Source Software](#-open-source-software)
   - [Mautic](#mautic)
   - [Laudspeaker](#laudspeaker)
@@ -27,33 +22,24 @@
 
 ---
 
+## 📊 Sector Overview & Market Dynamics
+
+The global marketing campaign management and marketing automation market is estimated at approximately **$13B–$15B** (campaign management software) to over **$40B+** (broad marketing automation ecosystem) and is growing at an 11–15% CAGR. The sector exhibits a **bifurcated market structure**: it is **heavily concentrated** at the top tier among enterprise giants (Adobe, Salesforce, HubSpot) that benefit from deep platform lock-in and high switching costs, while remaining **highly fragmented** across the mid-market and SMB tiers where hundreds of specialized tools compete on agility, developer workflows, and pricing transparency.
+
+---
+
 ## 🟦 SaaS / Hosted Platforms
 
 Commercial, cloud-hosted Marketing Campaign Management platforms. These are not open-source but are included as reference points for feature comparison.
 
-### HubSpot Marketing Hub
-**Type:** All-in-one marketing platform with CRM integration
-HubSpot Marketing Hub provides email marketing, social media, landing pages, forms, automation workflows, and analytics, tightly integrated with HubSpot CRM. It is the natural choice for organizations already using HubSpot, with a free tier for basic email marketing and paid tiers scaling by contacts and features.
-
-### Marketo Engage
-**Type:** Enterprise marketing automation within Adobe
-Marketo Engage (Adobe) provides sophisticated B2B marketing automation with lead scoring, multi-touch attribution, account-based marketing, and complex campaign orchestration. It is positioned for large enterprises with complex B2B sales cycles, with pricing that targets enterprise budgets.
-
-### ActiveCampaign
-**Type:** Marketing automation with integrated CRM
-ActiveCampaign combines email marketing, marketing automation, and a lightweight CRM, known for automation depth relative to price. It supports email, SMS, and site messaging, with pricing starting at $15/month for the Starter plan and scaling by contacts.
-
-### Braze
-**Type:** Enterprise cross-channel customer engagement platform
-Braze is consistently positioned as a Leader in Gartner's Magic Quadrant for Multichannel Marketing Hubs, alongside Adobe, Salesforce, and SAP. It provides journey orchestration, cross-channel messaging (email, push, SMS, in-app, webhooks), and real-time segmentation, with a strong focus on mobile-first engagement. Pricing is enterprise-quoted and scales with monthly active users.
-
-### Klaviyo
-**Type:** E-commerce marketing automation
-Klaviyo specializes in email and SMS marketing for e-commerce, with deep integrations into Shopify, WooCommerce, and BigCommerce for behavioral triggers and segmentation. It is positioned for DTC brands wanting revenue-attributed campaigns, with pricing scaling by contacts.
-
-### Customer.io
-**Type:** Event-triggered messaging platform
-Customer.io provides event-triggered email, push, SMS, and in-app messaging with a focus on behavioral automation. It is positioned for product-led growth companies wanting to send messages based on user actions within their application.
+| Platform | Type / Core Focus | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Free Trial Limits | Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Marketo Engage** (Adobe) | Enterprise B2B marketing automation & lead nurturing | **$94.6B+** Market Cap (Adobe Inc.) / ~$25.9B Revenue ($4.75B acquisition) | **$895/month** (Growth tier, billed annually; ~20k contacts) | **No free tier or trial** (Guided sales demo only) | Lead scoring, multi-touch attribution, ABM, enterprise campaign orchestration, deep CRM sync |
+| **HubSpot Marketing Hub** | Inbound marketing & CRM suite | **~$10.6B** Market Cap / ~$2.6B+ Revenue | **$15/month** (billed annually, $20/mo billed monthly; Starter tier, 1,000 marketing contacts, 1 seat) | **Free Forever** (Up to 1,000 non-marketing contacts, basic forms, email marketing with HubSpot branding) | Drag-and-drop builder, landing pages, forms, email automation, CRM integration, analytics |
+| **Klaviyo** | E-commerce marketing automation & lifecycle messaging | **~$6.1B** Market Cap / ~$1.47B Revenue | **$20/month** (Base Email plan; up to 500 active profiles, 5,000 email sends/month) | **Free Forever** (Up to 250 active profiles, 500 email sends/month, 150 SMS credits, Klaviyo branding, 60 days email support) | E-commerce behavioral triggers, deep Shopify/WooCommerce sync, revenue attribution, multi-channel messaging |
+| **Braze** | Enterprise cross-channel customer engagement platform | **~$5.3B** Market Cap / ~$834M Revenue | **~$2,500/month** (~$30,000/year base entry annual contract) | **14-day free trial** (Sales-assisted demo trial access to product tours and test campaigns; no permanent free tier) | Real-time journey orchestration, mobile push, in-app messaging, SMS, email, event streaming |
+| **ActiveCampaign** | Marketing automation with integrated SMB CRM | **$3.0B** Valuation (Series C) / ~$200M–$290M ARR | **$15/month** (billed annually, $19/mo billed monthly; Starter plan, up to 1,000 contacts) | **14-day free trial** (1 user seat, capped at 100 email sends total, access to Professional features; no permanent free tier) | Visual automation builder, contact tracking, email marketing, CRM pipeline, site messaging |
+| **Customer.io** | Behavioral event-triggered messaging platform | **$400M+** Est. Valuation / ~$100M+ ARR | **$100/month** (billed monthly; Essentials plan, up to 5,000 profiles, 1M emails/month) | **14-day free trial** (Up to 5,000 test messages across channels, 50 daily test email sends cap; no permanent free tier) | Event-driven journeys, multi-channel workflows (email, SMS, push, in-app), webhooks, data pipelines |
 
 ---
 
