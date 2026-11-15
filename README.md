@@ -1,170 +1,252 @@
-# Awesome-Marketing-Campaign-Management
+<div align="center">
 
-# Awesome Marketing Campaign Management
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Marketing-Campaign-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Campaign-Management?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Marketing-Campaign-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Marketing-Campaign-Management?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Marketing-Campaign-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-brightgreen.svg?style=for-the-badge" alt="License: CC0-1.0"/></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-> A curated list of top Marketing Campaign Management platforms — both SaaS/Hosted commercial solutions and open-source alternatives for planning, executing, and analyzing multi-channel marketing campaigns.
-> 🌟 Star this repo if you find it useful! 🌟
+<br/><br/>
+
+<a href="#-awesome-marketing-campaign-management">
+  <img src="assets/banner.svg" alt="Awesome Marketing Campaign Management Banner" width="100%" />
+</a>
+
+# 🚀 Awesome Marketing Campaign Management 📈
+
+> 🎯 A carefully curated index of industry-leading **Marketing Campaign Management**, **Marketing Automation**, and **Omnichannel Customer Engagement** platforms — featuring both commercial SaaS suites and battle-tested, self-hostable open-source solutions for multi-channel email, SMS, push, in-app messaging, visual journey orchestration, and customer data platforms (CDP).
+>
+> 🌟 **Star this repository** if you find it helpful! Contributions and feedback are warmly welcomed. 🌟
+
+</div>
 
 ---
 
-## 📋 Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-- [Open-Source Software](#-open-source-software)
-  - [Mautic](#mautic)
-  - [Laudspeaker](#laudspeaker)
-  - [Notifuse](#notifuse)
-  - [Helio](#helio)
-  - [erxes](#erxes)
-  - [Listmonk](#listmonk)
-  - [Plunk](#plunk)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🟦 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🟩 Open-Source Software](#-open-source-software)
+  - [1. Listmonk](#1-listmonk-)
+  - [2. Mautic](#2-mautic-)
+  - [3. SuiteCRM](#3-suitecrm-)
+  - [4. Plunk](#4-plunk-)
+  - [5. erxes](#5-erxes-)
+  - [6. Dittofeed](#6-dittofeed-)
+  - [7. Laudspeaker](#7-laudspeaker-)
+  - [8. Notifuse](#8-notifuse-)
+  - [9. Keila](#9-keila-)
+  - [10. SendPortal](#10-sendportal-)
+  - [11. Helio](#11-helio-)
+- [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
 ## 📊 Sector Overview & Market Dynamics
 
-The global marketing campaign management and marketing automation market is estimated at approximately **$13B–$15B** (campaign management software) to over **$40B+** (broad marketing automation ecosystem) and is growing at an 11–15% CAGR. The sector exhibits a **bifurcated market structure**: it is **heavily concentrated** at the top tier among enterprise giants (Adobe, Salesforce, HubSpot) that benefit from deep platform lock-in and high switching costs, while remaining **highly fragmented** across the mid-market and SMB tiers where hundreds of specialized tools compete on agility, developer workflows, and pricing transparency.
+The global marketing campaign management and marketing automation market is estimated between **$13B–$15B** (focused campaign management software) and over **$40B+** (broad enterprise marketing automation ecosystem), expanding at a rapid **11%–15% CAGR**. 
+
+The sector displays a distinct **bifurcated market structure**:
+* **Enterprise Tier (Highly Concentrated / Oligopoly-leaning):** Dominated by legacy enterprise suites (**Adobe / Marketo**, **Salesforce Marketing Cloud**, and **HubSpot**). These platforms capture massive aggregate revenue by leveraging deep CRM/ERP platform lock-in, proprietary data lakes, and steep switching costs.
+* **Mid-Market & SMB Tier (Highly Fragmented):** Populated by agile specialist tools (**Klaviyo** in e-commerce, **Braze** and **Customer.io** in event-driven mobile/PLG engagement) alongside hundreds of lightweight niche and self-hosted open-source alternatives. These competitors win on transparent developer-friendly pricing, privacy sovereignty, and rapid time-to-value without heavy onboarding lock-in.
 
 ---
 
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted Marketing Campaign Management platforms. These are not open-source but are included as reference points for feature comparison.
+Commercial, cloud-hosted Marketing Campaign Management and customer engagement suites. These platforms are fully managed, cloud-native services benchmarked here for feature, scalability, and pricing comparison.
 
-| Platform | Type / Core Focus | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier / Free Trial Limits | Key Capabilities |
+| 🏢 Platform | 🎯 Type / Core Focus | 💼 Company Size (Valuation / Revenue) | 🏷️ Starting Tier Pricing | 🎁 Free Tier / Free Trial Limits | ⚡ Key Capabilities |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Marketo Engage** (Adobe) | Enterprise B2B marketing automation & lead nurturing | **$94.6B+** Market Cap (Adobe Inc.) / ~$25.9B Revenue ($4.75B acquisition) | **$895/month** (Growth tier, billed annually; ~20k contacts) | **No free tier or trial** (Guided sales demo only) | Lead scoring, multi-touch attribution, ABM, enterprise campaign orchestration, deep CRM sync |
-| **HubSpot Marketing Hub** | Inbound marketing & CRM suite | **~$10.6B** Market Cap / ~$2.6B+ Revenue | **$15/month** (billed annually, $20/mo billed monthly; Starter tier, 1,000 marketing contacts, 1 seat) | **Free Forever** (Up to 1,000 non-marketing contacts, basic forms, email marketing with HubSpot branding) | Drag-and-drop builder, landing pages, forms, email automation, CRM integration, analytics |
-| **Klaviyo** | E-commerce marketing automation & lifecycle messaging | **~$6.1B** Market Cap / ~$1.47B Revenue | **$20/month** (Base Email plan; up to 500 active profiles, 5,000 email sends/month) | **Free Forever** (Up to 250 active profiles, 500 email sends/month, 150 SMS credits, Klaviyo branding, 60 days email support) | E-commerce behavioral triggers, deep Shopify/WooCommerce sync, revenue attribution, multi-channel messaging |
-| **Braze** | Enterprise cross-channel customer engagement platform | **~$5.3B** Market Cap / ~$834M Revenue | **~$2,500/month** (~$30,000/year base entry annual contract) | **14-day free trial** (Sales-assisted demo trial access to product tours and test campaigns; no permanent free tier) | Real-time journey orchestration, mobile push, in-app messaging, SMS, email, event streaming |
-| **ActiveCampaign** | Marketing automation with integrated SMB CRM | **$3.0B** Valuation (Series C) / ~$200M–$290M ARR | **$15/month** (billed annually, $19/mo billed monthly; Starter plan, up to 1,000 contacts) | **14-day free trial** (1 user seat, capped at 100 email sends total, access to Professional features; no permanent free tier) | Visual automation builder, contact tracking, email marketing, CRM pipeline, site messaging |
-| **Customer.io** | Behavioral event-triggered messaging platform | **$400M+** Est. Valuation / ~$100M+ ARR | **$100/month** (billed monthly; Essentials plan, up to 5,000 profiles, 1M emails/month) | **14-day free trial** (Up to 5,000 test messages across channels, 50 daily test email sends cap; no permanent free tier) | Event-driven journeys, multi-channel workflows (email, SMS, push, in-app), webhooks, data pipelines |
+| **[Marketo Engage](https://business.adobe.com/products/marketo/adobe-marketo.html)** (Adobe) | Enterprise B2B marketing automation & lead nurturing | **$94.6B+** Market Cap (Adobe Inc.) / ~$25.9B Revenue ($4.75B acquisition) | **$895/month** (Growth tier, billed annually; ~20k contacts) | **No free tier or trial** (Guided sales demo walkthrough only) | Lead scoring, multi-touch attribution, ABM, enterprise campaign orchestration, deep CRM sync |
+| **[HubSpot Marketing Hub](https://www.hubspot.com/products/marketing)** | All-in-one inbound marketing & CRM suite | **~$10.6B** Market Cap / ~$2.6B+ Trailing Revenue | **$15/month** (billed annually, $20/mo monthly; Starter tier, 1,000 marketing contacts, 1 seat) | **Free Forever** (Up to 1,000 non-marketing contacts, basic forms, email marketing with HubSpot branding) | Visual drag-and-drop builder, landing pages, lead forms, email automations, native CRM integration, reporting |
+| **[Klaviyo](https://www.klaviyo.com/)** | E-commerce marketing automation & lifecycle messaging | **~$6.1B** Market Cap / ~$1.47B Trailing Revenue | **$20/month** (Base Email plan; up to 500 active profiles, 5,000 email sends/month) | **Free Forever** (Up to 250 active profiles, 500 email sends/month, 150 SMS credits, Klaviyo branding, 60 days email support) | E-commerce behavioral triggers, deep Shopify/WooCommerce sync, revenue attribution, multi-channel messaging |
+| **[Braze](https://www.braze.com/)** | Enterprise cross-channel customer engagement platform | **~$5.3B** Market Cap / ~$834M Trailing Revenue | **~$2,500/month** (~$30,000/year base entry annual contract) | **14-day free trial** (Sales-assisted demo trial access to product tours and test campaigns; no permanent free tier) | Real-time journey orchestration, mobile push, in-app messaging, SMS, email, event streaming |
+| **[ActiveCampaign](https://www.activecampaign.com/)** | Customer experience automation with integrated SMB CRM | **$3.0B** Valuation (Series C) / ~$200M–$290M ARR | **$15/month** (billed annually, $19/mo monthly; Starter plan, up to 1,000 contacts) | **14-day free trial** (1 user seat, capped at 100 email sends total, access to Professional features; no permanent free tier) | Visual automation builder, contact tracking, email marketing, CRM pipeline, site messaging |
+| **[Customer.io](https://customer.io/)** | Behavioral event-triggered messaging platform | **$400M+** Est. Valuation / ~$100M+ ARR | **$100/month** (billed monthly; Essentials plan, up to 5,000 profiles, 1M emails/month) | **14-day free trial** (Up to 5,000 test messages across channels, 50 daily test email sends cap; no permanent free tier) | Event-driven journeys, multi-channel workflows (email, SMS, push, in-app), webhooks, data pipelines |
 
 ---
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Marketing Campaign Management tools. The open-source ecosystem spans **mature marketing automation platforms**, **modern developer-friendly engagement suites**, **self-hosted email platforms with automation**, and **AI-native growth platforms**.
+Self-hosted, community-driven, and developer-friendly marketing campaign management systems. The open-source ecosystem offers complete data sovereignty, zero per-seat fees, and direct database access. 
 
-### Mautic
-**Stack:** PHP / MySQL | **License:** GPL-3.0
-Mautic is the world's largest open-source marketing automation project, explicitly positioned for data sovereignty and privacy [citation:1][citation:12]. Key capabilities include:
-- **Multi-channel marketing**: email, SMS, app or browser notifications out of the box, with more channels via plugins
-- **Visual campaign builder**: drag-and-drop journey orchestration with conditional logic
-- **Lead management**: scoring, stages, and behavioral tracking
-- **GDPR compliance**: consent management, data erasure, and audit logs
-- **Unlimited users**: no per-seat pricing
-- **REST API** for CRM integration
-- **Self-hosted** with full data control
+The repositories below are **sorted in descending order by GitHub Stars**:
 
-**Critical deployment detail:** A dedicated cron worker is required for campaigns and scheduled emails to actually fire—the most common failure in self-hosted Mautic deployments [citation:2][citation:9]. Mautic is a direct alternative to HubSpot, ActiveCampaign, and Mailchimp, with no per-contact pricing [citation:2].
-**Best for:** Organizations wanting a proven, privacy-focused marketing automation platform with full data ownership and no per-user fees, accepting the PHP/MySQL deployment and cron configuration.
+### 1. [Listmonk](https://github.com/knadh/listmonk) [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
+* **Stack:** Go / PostgreSQL | **License:** AGPL-3.0
+* **Overview:** High-performance, self-hosted newsletter and mailing list manager with a sleek admin interface. Designed to pack multi-million subscriber handling into a single lightweight binary with minimal overhead.
+* **Key Features:**
+  - ⚡ Blazing fast email throughput (thousands of emails per second)
+  - 📋 Multi-list management and dynamic subscriber attributes
+  - 🎨 HTML and Markdown template editing with live preview
+  - 🔌 RESTful APIs and webhook integrations
+* **Best For:** Developers and businesses seeking high-volume email newsletters without SaaS subscription tax.
 
-### Laudspeaker
-**Stack:** TypeScript / Node.js | **License:** Open Source (Y Combinator-backed)
-Laudspeaker is an open-source customer engagement platform positioned as an alternative to Braze, Iterable, and Customer.io, backed by Y Combinator [citation:4][citation:6]. Key features include:
-- **Event-triggered cross-channel messages**: email, SMS, push, and Slack
-- **No-code journey builder**: visual tool for designing campaigns
-- **Time delays and time windows**: for drip campaigns
-- **User segments**: create and target specific audiences
-- **Database imports**: PostgreSQL and CSV imports
-- **PostHog plugin**: integrates with product analytics
-- **Self-hosted or hosted**: flexible deployment options
+### 2. [Mautic](https://github.com/mautic/mautic) [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+* **Stack:** PHP / MySQL | **License:** GPL-3.0
+* **Overview:** The world's flagship open-source marketing automation platform, delivering enterprise-grade lead nurturing, GDPR compliance, and visual customer journeys.
+* **Key Features:**
+  - 🗺️ Visual drag-and-drop campaign journey builder with conditional logic
+  - 📊 Multi-channel delivery: Email, SMS, web push, and browser notifications
+  - 🎯 Advanced lead scoring, contact stages, and visitor tracking
+  - 🛡️ Strict GDPR consent tracking, data auditing, and complete data ownership
+  - 👥 Unlimited seats and contacts with zero per-contact fees
+* **Critical Note:** Requires a properly scheduled background cron worker to fire timed campaign events.
+* **Best For:** Teams and enterprises demanding a full-featured, self-hosted alternative to HubSpot and Marketo.
 
-With 2,216 GitHub stars and active development, it is a strong choice for teams wanting a modern, YC-backed alternative to commercial engagement platforms [citation:4].
-**Best for:** Teams wanting an open-source Braze/Customer.io alternative with a no-code journey builder and event-triggered messaging, accepting a younger ecosystem than Mautic.
+### 3. [SuiteCRM](https://github.com/salesagility/SuiteCRM) [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
+* **Stack:** PHP / MariaDB / MySQL | **License:** AGPL-3.0
+* **Overview:** The open-source enterprise standard alternative to Salesforce. Houses an extensive marketing campaign suite directly tied to customer accounts, sales opportunities, and pipelines.
+* **Key Features:**
+  - 📨 Multi-channel campaign wizard with automated target list segmentation
+  - 📈 Email template creation, tracker URLs, and campaign ROI analytics
+  - 🔄 Lead capture web-to-lead forms with automatic sales team routing
+  - 🏢 End-to-end CRM integration spanning Marketing, Sales, and Support
+* **Best For:** Enterprises needing integrated marketing campaign execution built directly into their core open-source CRM.
 
-### Notifuse
-**Stack:** Go / React / PostgreSQL | **License:** Open Source
-Notifuse is a modern, self-hosted email marketing and transactional email platform positioned as an alternative to Mailchimp, Brevo, Klaviyo, and Listmonk [citation:3][citation:11]. Key capabilities include:
-- **Visual MJML drag-and-drop email builder** with real-time preview
-- **Campaign management** with A/B testing and open/click analytics
-- **Visual automation flow builder** with delay, email, branch, filter, webhook, and A/B test nodes
-- **Multi-provider support**: Amazon SES, Mailgun, Postmark, SendGrid, SparkPost, Mailjet, SMTP
-- **Transactional email API** with automatic provider failover
-- **Subscriber segmentation** and contact lists
-- **SMTP relay** for routing Supabase/Firebase emails
-- **Web analytics (Staminads)**: cookieless, GDPR-friendly
+### 4. [Plunk](https://github.com/useplunk/plunk) [![GitHub stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)
+* **Stack:** TypeScript / Node.js / PostgreSQL / AWS SES | **License:** AGPL-3.0 / Open Source
+* **Overview:** Modern, developer-centric email platform combining transactional delivery, marketing broadcast campaigns, and automated sequences in a unified API.
+* **Key Features:**
+  - 📬 Unified engine for transactional, marketing broadcasts, and triggered emails
+  - ⚡ AWS SES native routing for optimal deliverability and ultra-low sending costs
+  - 🧩 Visual automation workflow builder for drip sequences and lifecycle emails
+  - 🛠️ Developer-first SDKs, webhooks, and REST endpoints
+* **Best For:** SaaS startups and developers looking for a self-hosted alternative to Resend, SendGrid, and Mailchimp.
 
-With a Setup Wizard for quick deployment and no per-email fees, it is a strong choice for teams wanting a modern email marketing platform [citation:3][citation:11].
-**Best for:** Developers and marketers wanting a self-hosted email platform with visual automation, multi-provider support, and no per-email fees, accepting a newer project than Mautic.
+### 5. [erxes](https://github.com/erxes/erxes) [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
+* **Stack:** Node.js / React / MongoDB | **License:** AGPL-3.0 (Community Edition)
+* **Overview:** Open-source Experience Operating System (XOS) combining marketing campaigns, live chat, sales pipelines, and customer support into one collaborative interface.
+* **Key Features:**
+  - 💬 Omnichannel Team Inbox connecting live chat, email, SMS, and forms
+  - 🧲 Lead capture popups, responsive landing pages, and embeddable forms
+  - 🚀 Engage module for automated multi-channel marketing campaigns
+  - 📊 Visual sales pipelines, deal funnels, and CRM contact profiles
+* **Best For:** SMBs looking for an open-source HubSpot alternative that aligns marketing campaigns with real-time support and sales.
 
-### Helio
-**Stack:** TypeScript / Temporal / PostgreSQL / ClickHouse | **License:** AGPL-3.0
-Helio is an open-source, AI-native growth platform combining a CDP, visual journey orchestration, and multi-channel delivery . Key capabilities include:
-- **Multi-channel**: email, SMS (Twilio), WhatsApp (Cloud API), web push, and in-app messages
-- **Visual journey builder**: React Flow canvas compiled to a validated DAG, with durable execution via Temporal
-- **AI copilot**: describe a segment, journey, or email in a sentence and get a working draft
-- **Bring your own AI**: OpenAI, Anthropic, Groq, NVIDIA NIM, or local Ollama
-- **MCP server**: exposes capabilities as tools for external AI agents
-- **Migration importers**: HubSpot, Mailchimp, Klaviyo exports
-- **Free forever**: no plans, no contact caps, no metering
+### 6. [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
+* **Stack:** TypeScript / Node.js / Temporal / ClickHouse / PostgreSQL | **License:** MIT
+* **Overview:** Event-driven, open-source customer engagement platform built for growth engineering teams. Engineered with Temporal for resilient journey workflows at scale.
+* **Key Features:**
+  - 🔄 Durable, stateful journey orchestration powered by Temporal
+  - 📡 Behavioral event tracking and dynamic user cohort segmentation
+  - 📱 Cross-channel messaging: Email, SMS, mobile push, and custom webhook actions
+  - ⚡ High-throughput event ingestion and real-time behavioral triggers
+* **Best For:** Growth engineers and product teams wanting an open-source, code-friendly alternative to Customer.io and Braze.
 
-It is explicitly positioned as a Mautic alternative with AI-native capabilities .
-**Best for:** Teams wanting a genuinely free, AI-native marketing automation platform with durable execution and multi-channel delivery, accepting a newer project than Mautic.
+### 7. [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
+* **Stack:** TypeScript / Node.js / PostgreSQL | **License:** Open Source (Y Combinator-backed)
+* **Overview:** YC-backed open-source customer journey orchestration engine designed as a self-hostable alternative to Braze and Iterable.
+* **Key Features:**
+  - 🧭 No-code visual canvas for building complex customer journeys
+  - 📩 Multi-channel support across Email, SMS, Push notifications, and Slack
+  - ⏱️ Intelligent time delays, conditional wait windows, and event forks
+  - 🔌 Seamless integrations with PostHog, Segment, and PostgreSQL databases
+* **Best For:** Product-led companies needing visual cross-channel journey building backed by product analytics.
 
-### erxes
-**Stack:** Node.js / MongoDB / React | **License:** AGPL-3.0 (Community Edition)
-erxes is an open-source Experience Operating System (XOS) combining marketing, sales, operations, and support in one self-hostable platform, positioned as a HubSpot alternative [citation:8][citation:13]. Key features include:
-- **Team Inbox**: real-time client and team communication with in-app messaging, live chat, email, and form
-- **Leads**: capture visitors with customizable landing pages, forms, pop-ups, or embed placements
-- **Engage**: convert prospects through email, SMS, messenger, and more
-- **CRM**: all-in-one customer relationship management
-- **Knowledge base**: help center for brands, products, and services
-- **Sales Management**: sales funnels and pipeline control
+### 8. [Notifuse](https://github.com/Notifuse/notifuse) [![GitHub stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=social&color=white)](https://github.com/Notifuse/notifuse/stargazers)
+* **Stack:** Go / React / PostgreSQL | **License:** Open Source
+* **Overview:** Modern, self-hosted newsletter and marketing automation suite featuring a visual MJML email designer and multi-provider delivery.
+* **Key Features:**
+  - 🎨 Drag-and-drop MJML email builder with live mobile/desktop preview
+  - 🔀 Automation flow editor with delay, conditional branch, and A/B test nodes
+  - 🌐 Multi-provider failover support (Amazon SES, Postmark, Mailgun, SendGrid)
+  - 📊 Cookieless, GDPR-compliant web analytics and subscriber tracking
+* **Best For:** Marketers and developers seeking a clean, modern email marketing system with multi-provider redundancy.
 
-It provides a **web-based CRM with mobile-responsive interfaces** rather than dedicated native mobile apps.
-**Best for:** Organizations wanting a self-hostable HubSpot alternative with sales, marketing, and support in one platform, accepting a web-based rather than native mobile experience.
+### 9. [Keila](https://github.com/pentacent/keila) [![GitHub stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers)
+* **Stack:** Elixir / Phoenix / PostgreSQL | **License:** AGPL-3.0
+* **Overview:** Fast, privacy-first newsletter and campaign tool built with Elixir. Focuses on data security, clean UI, and effortless contact segmentation.
+* **Key Features:**
+  - 🔒 Privacy-first analytics without intrusive third-party user tracking
+  - 📝 Block-based visual email editor and raw markdown support
+  - 🎯 Flexible contact tagging and dynamic segment filtering
+  - 📤 Reliable mail delivery via custom SMTP or Amazon SES
+* **Best For:** Privacy-conscious creators, publications, and businesses needing a dependable newsletter manager.
 
-### Listmonk
-**Stack:** Go / PostgreSQL | **License:** AGPL-3.0
-Listmonk is a standalone, self-hosted **newsletter and mailing list manager** with a fast, clean interface. It supports multi-list management, custom subscriber attributes, segmentation, templates (HTML or Markdown), analytics, and transactional messaging via a REST API. It is designed for high-volume sending (millions of subscribers) with a single binary deployment and no external dependencies beyond PostgreSQL. It is explicitly **email-only**—no SMS, push, or journey builder.
-**Best for:** Organizations wanting a lightweight, high-performance newsletter platform with segmentation and templates, accepting that it is email-only.
+### 10. [SendPortal](https://github.com/mettle/sendportal) [![GitHub stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers)
+* **Stack:** PHP / Laravel / PostgreSQL / MySQL | **License:** MIT
+* **Overview:** Open-source email marketing platform built on Laravel. Features multi-tenant workspaces and seamless integrations with popular ESPs.
+* **Key Features:**
+  - 🏢 Multi-tenant architecture for handling multiple workspaces and brands
+  - 📊 Campaign analytics including open rates, click-through rates, and bounces
+  - 📬 Native ESP integrations with Amazon SES, Mailgun, SendGrid, and Postmark
+  - 🏷️ Subscriber segment management with custom field attributes
+* **Best For:** Agencies, developers, and Laravel teams looking for a customizable email campaign management codebase.
 
-### Plunk
-**Stack:** Node.js / PostgreSQL | **License:** Open Source
-Plunk is an open-source email platform that unifies marketing, transactional, and broadcast emails in a single solution. It offers a generous free tier of 3,000 emails per month, a responsive email editor, and actions for building automations. It is positioned as a cost-effective alternative to Mailchimp, SendGrid, and Mailgun, with pricing at $0.001 per email for paid usage [citation:14].
-**Best for:** Teams wanting an all-in-one open-source email platform for marketing and transactional emails with a generous free tier, accepting a newer project than established alternatives.
+### 11. [Helio](https://github.com/achref-soua/helio) [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
+* **Stack:** TypeScript / Temporal / PostgreSQL / ClickHouse | **License:** AGPL-3.0
+* **Overview:** Next-generation AI-native growth platform combining an embedded CDP, visual journey orchestration, and AI-assisted campaign drafting.
+* **Key Features:**
+  - 🤖 AI Copilot for generating journeys, copy, and audience segments from prompts
+  - 🛠️ Model Context Protocol (MCP) server enabling external AI agents to trigger actions
+  - 📱 Omnichannel delivery: Email, SMS (Twilio), WhatsApp, and Web Push
+  - ⏳ Durable execution engine powered by Temporal
+* **Best For:** Engineering teams looking to pioneer AI-agentic marketing automation and automated growth workflows.
 
 ---
 
-## 📊 Comparison at a Glance
+## 📊 Feature Comparison Matrix
 
-| Software | License | Stack | Visual Builder | Multi-Channel | Self-Hosted | Best For |
-|----------|---------|-------|----------------|---------------|-------------|----------|
-| **HubSpot** | Proprietary | Cloud | ✅ | ✅ | ❌ | HubSpot CRM integration |
-| **Marketo** | Proprietary | Cloud | ✅ | ✅ | ❌ | Enterprise B2B automation |
-| **Braze** | Proprietary | Cloud | ✅ | ✅ | ❌ | Enterprise cross-channel |
-| **Mautic** | GPL-3.0 | PHP/MySQL | ✅ Campaign builder | ✅ Email/SMS/Notifications | ✅ | Proven OSS + data sovereignty |
-| **Laudspeaker** | Open Source | TypeScript | ✅ No-code journey | ✅ Email/SMS/Push/Slack | ✅ | YC-backed Braze alternative |
-| **Notifuse** | Open Source | Go/React/Postgres | ✅ MJML + Automation | (Email-focused) | ✅ | Modern email + automation |
-| **Helio** | AGPL-3.0 | TypeScript/Temporal | ✅ React Flow | ✅ Email/SMS/WhatsApp/Push | ✅ | AI-native + free forever |
-| **erxes** | AGPL-3.0 | Node.js/React | ✅ Sales funnels | ✅ Email/SMS/Messenger | ✅ | HubSpot alternative |
-| **Listmonk** | AGPL-3.0 | Go/Postgres | ❌ (Templates) | ❌ (Email only) | ✅ | High-volume newsletters |
-| **Plunk** | Open Source | Node.js/Postgres | ✅ Editor | (Email-focused) | ✅ | All-in-one email + free tier |
+| 🛠️ Software | 📜 License | 💻 Core Tech Stack | 🎨 Visual Builder | 📲 Multi-Channel | 🏠 Self-Hosted | 🌟 Primary Strength |
+| :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| **Marketo Engage** | Proprietary | Cloud | ✅ | ✅ | ❌ | Enterprise B2B multi-touch attribution |
+| **HubSpot** | Proprietary | Cloud | ✅ | ✅ | ❌ | All-in-one Inbound Marketing & CRM |
+| **Klaviyo** | Proprietary | Cloud | ✅ | ✅ | ❌ | DTC e-commerce behavioral automation |
+| **Braze** | Proprietary | Cloud | ✅ | ✅ | ❌ | Enterprise mobile & cross-channel journeys |
+| **ActiveCampaign** | Proprietary | Cloud | ✅ | ✅ | ❌ | SMB automation workflows & lightweight CRM |
+| **Customer.io** | Proprietary | Cloud | ✅ | ✅ | ❌ | Event-triggered messaging for PLG SaaS |
+| **Listmonk** | AGPL-3.0 | Go / PostgreSQL | ❌ (Templates) | ❌ (Email only) | ✅ | Ultra-fast, high-volume newsletter delivery |
+| **Mautic** | GPL-3.0 | PHP / MySQL | ✅ Full Journey | ✅ Email, SMS, Web Push | ✅ | Enterprise OSS maturity & complete data ownership |
+| **SuiteCRM** | AGPL-3.0 | PHP / MySQL | ✅ Wizard | ✅ Email & Web Forms | ✅ | Full CRM integration with campaign workflows |
+| **Plunk** | AGPL-3.0 | TS / AWS SES | ✅ Automations | ❌ (Email focus) | ✅ | Developer-first transactional + marketing email |
+| **erxes** | AGPL-3.0 | Node.js / React | ✅ Sales Funnels | ✅ Email, SMS, Chat | ✅ | Integrated marketing, CRM & team support inbox |
+| **Dittofeed** | MIT | TS / Temporal | ✅ Journeys | ✅ Email, SMS, Push | ✅ | Resilient event-driven growth orchestration |
+| **Laudspeaker** | Open Source | TypeScript / Node | ✅ Visual Canvas | ✅ Email, SMS, Push, Slack | ✅ | YC-backed open-source alternative to Braze |
+| **Notifuse** | Open Source | Go / React / MJML | ✅ MJML + Flow | ❌ (Email focus) | ✅ | Modern self-hosted email with provider failover |
+| **Keila** | AGPL-3.0 | Elixir / Phoenix | ❌ (Blocks) | ❌ (Email focus) | ✅ | Clean, privacy-first newsletter management |
+| **SendPortal** | MIT | PHP / Laravel | ❌ (Templates) | ❌ (Email focus) | ✅ | Multi-tenant email marketing for Laravel devs |
+| **Helio** | AGPL-3.0 | TS / Temporal | ✅ React Flow | ✅ Email, SMS, WhatsApp | ✅ | AI-native copilot with MCP tool capabilities |
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Marketing-Campaign-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Marketing-Campaign-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository valuable for your research, team, or projects, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork it** to contribute new tools or adapt it for your team.
+- 📢 **Share it** on social platforms, newsletters, or tech communities.
+- ☕ **Sponsor & Buy a Coffee:** You can sponsor ongoing maintenance and development via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Your support is deeply appreciated!
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Marketing Campaign Management tool that should be listed here, please open a pull request with:
+Contributions are warmly welcome! If you know of an awesome Marketing Campaign Management platform (SaaS or open-source) that should be included:
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
+1. Fork this repository.
+2. Create a new branch: `git checkout -b add-tool-name`.
+3. Add the platform with details matching the existing structure (Stack, License, Key Capabilities, and GitHub links).
+4. Commit your changes: `git commit -m 'Add Tool Name'`.
+5. Push to the branch and open a Pull Request.
 
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source.
-
-**Note on the open-source ecosystem:** The marketing campaign management space is **led by Mautic** for maturity and adoption, with a proven track record as the largest open-source marketing automation project [citation:1][citation:12]. A newer generation of modern, developer-friendly platforms has emerged: **Laudspeaker** (YC-backed, Braze alternative) [citation:6], **Notifuse** (Go-based email platform with visual automation and multi-provider support) [citation:11], and **Helio** (AI-native, free forever, with Temporal-based durable execution) . **erxes** offers a broader HubSpot-style platform combining marketing, sales, and support [citation:8]. For email-only needs, **Listmonk** excels at high-volume newsletters, while **Plunk** provides a generous free tier for combined marketing and transactional email [citation:14]. No single open-source project fully replicates Braze's enterprise-scale cross-channel orchestration, but these tools cover the core campaign workflow comprehensively for self-hosted deployments.
+Please ensure that any submitted open-source repository is actively maintained with releases within the last 12 months.
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
-
----
-
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+This compilation is released under the [Creative Commons Zero v1.0 Universal](LICENSE) (CC0 1.0 Universal - Public Domain Dedication). All linked software packages, logos, and trademarks belong to their respective creators and organizations.
