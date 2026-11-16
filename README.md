@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Marketing-Campaign-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Campaign-Management?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Marketing-Campaign-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Marketing-Campaign-Management?style=for-the-badge&logo=github&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Marketing-Campaign-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Marketing-Campaign-Management?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Marketing-Campaign-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-brightgreen.svg?style=for-the-badge" alt="License: CC0-1.0"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -76,9 +76,9 @@ Commercial, cloud-hosted Marketing Campaign Management and customer engagement s
 
 Self-hosted, community-driven, and developer-friendly marketing campaign management systems. The open-source ecosystem offers complete data sovereignty, zero per-seat fees, and direct database access. 
 
-The repositories below are **sorted in descending order by GitHub Stars**:
+The repositories below are **sorted in descending order by GitHub_Stars**:
 
-### 1. [Listmonk](https://github.com/knadh/listmonk) [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
+### 1. [Listmonk](https://github.com/knadh/listmonk) [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
 * **Stack:** Go / PostgreSQL | **License:** AGPL-3.0
 * **Overview:** High-performance, self-hosted newsletter and mailing list manager with a sleek admin interface. Designed to pack multi-million subscriber handling into a single lightweight binary with minimal overhead.
 * **Key Features:**
@@ -88,7 +88,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
   - 🔌 RESTful APIs and webhook integrations
 * **Best For:** Developers and businesses seeking high-volume email newsletters without SaaS subscription tax.
 
-### 2. [Mautic](https://github.com/mautic/mautic) [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+### 2. [Mautic](https://github.com/mautic/mautic) [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
 * **Stack:** PHP / MySQL | **License:** GPL-3.0
 * **Overview:** The world's flagship open-source marketing automation platform, delivering enterprise-grade lead nurturing, GDPR compliance, and visual customer journeys.
 * **Key Features:**
@@ -100,7 +100,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
 * **Critical Note:** Requires a properly scheduled background cron worker to fire timed campaign events.
 * **Best For:** Teams and enterprises demanding a full-featured, self-hosted alternative to HubSpot and Marketo.
 
-### 3. [SuiteCRM](https://github.com/salesagility/SuiteCRM) [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
+### 3. [SuiteCRM](https://github.com/salesagility/SuiteCRM) [![GitHub_Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)
 * **Stack:** PHP / MariaDB / MySQL | **License:** AGPL-3.0
 * **Overview:** The open-source enterprise standard alternative to Salesforce. Houses an extensive marketing campaign suite directly tied to customer accounts, sales opportunities, and pipelines.
 * **Key Features:**
@@ -110,7 +110,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
   - 🏢 End-to-end CRM integration spanning Marketing, Sales, and Support
 * **Best For:** Enterprises needing integrated marketing campaign execution built directly into their core open-source CRM.
 
-### 4. [Plunk](https://github.com/useplunk/plunk) [![GitHub stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)
+### 4. [Plunk](https://github.com/useplunk/plunk) [![GitHub_Stars](https://img.shields.io/github/stars/useplunk/plunk?style=social&color=white)](https://github.com/useplunk/plunk/stargazers)
 * **Stack:** TypeScript / Node.js / PostgreSQL / AWS SES | **License:** AGPL-3.0 / Open Source
 * **Overview:** Modern, developer-centric email platform combining transactional delivery, marketing broadcast campaigns, and automated sequences in a unified API.
 * **Key Features:**
@@ -120,7 +120,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
   - 🛠️ Developer-first SDKs, webhooks, and REST endpoints
 * **Best For:** SaaS startups and developers looking for a self-hosted alternative to Resend, SendGrid, and Mailchimp.
 
-### 5. [erxes](https://github.com/erxes/erxes) [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
+### 5. [erxes](https://github.com/erxes/erxes) [![GitHub_Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)
 * **Stack:** Node.js / React / MongoDB | **License:** AGPL-3.0 (Community Edition)
 * **Overview:** Open-source Experience Operating System (XOS) combining marketing campaigns, live chat, sales pipelines, and customer support into one collaborative interface.
 * **Key Features:**
@@ -130,7 +130,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
   - 📊 Visual sales pipelines, deal funnels, and CRM contact profiles
 * **Best For:** SMBs looking for an open-source HubSpot alternative that aligns marketing campaigns with real-time support and sales.
 
-### 6. [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
+### 6. [Dittofeed](https://github.com/dittofeed/dittofeed) [![GitHub_Stars](https://img.shields.io/github/stars/dittofeed/dittofeed?style=social&color=white)](https://github.com/dittofeed/dittofeed/stargazers)
 * **Stack:** TypeScript / Node.js / Temporal / ClickHouse / PostgreSQL | **License:** MIT
 * **Overview:** Event-driven, open-source customer engagement platform built for growth engineering teams. Engineered with Temporal for resilient journey workflows at scale.
 * **Key Features:**
@@ -140,7 +140,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
   - ⚡ High-throughput event ingestion and real-time behavioral triggers
 * **Best For:** Growth engineers and product teams wanting an open-source, code-friendly alternative to Customer.io and Braze.
 
-### 7. [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
+### 7. [Laudspeaker](https://github.com/laudspeaker/laudspeaker) [![GitHub_Stars](https://img.shields.io/github/stars/laudspeaker/laudspeaker?style=social&color=white)](https://github.com/laudspeaker/laudspeaker/stargazers)
 * **Stack:** TypeScript / Node.js / PostgreSQL | **License:** Open Source (Y Combinator-backed)
 * **Overview:** YC-backed open-source customer journey orchestration engine designed as a self-hostable alternative to Braze and Iterable.
 * **Key Features:**
@@ -150,7 +150,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
   - 🔌 Seamless integrations with PostHog, Segment, and PostgreSQL databases
 * **Best For:** Product-led companies needing visual cross-channel journey building backed by product analytics.
 
-### 8. [Notifuse](https://github.com/Notifuse/notifuse) [![GitHub stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=social&color=white)](https://github.com/Notifuse/notifuse/stargazers)
+### 8. [Notifuse](https://github.com/Notifuse/notifuse) [![GitHub_Stars](https://img.shields.io/github/stars/Notifuse/notifuse?style=social&color=white)](https://github.com/Notifuse/notifuse/stargazers)
 * **Stack:** Go / React / PostgreSQL | **License:** Open Source
 * **Overview:** Modern, self-hosted newsletter and marketing automation suite featuring a visual MJML email designer and multi-provider delivery.
 * **Key Features:**
@@ -160,7 +160,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
   - 📊 Cookieless, GDPR-compliant web analytics and subscriber tracking
 * **Best For:** Marketers and developers seeking a clean, modern email marketing system with multi-provider redundancy.
 
-### 9. [Keila](https://github.com/pentacent/keila) [![GitHub stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers)
+### 9. [Keila](https://github.com/pentacent/keila) [![GitHub_Stars](https://img.shields.io/github/stars/pentacent/keila?style=social&color=white)](https://github.com/pentacent/keila/stargazers)
 * **Stack:** Elixir / Phoenix / PostgreSQL | **License:** AGPL-3.0
 * **Overview:** Fast, privacy-first newsletter and campaign tool built with Elixir. Focuses on data security, clean UI, and effortless contact segmentation.
 * **Key Features:**
@@ -170,7 +170,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
   - 📤 Reliable mail delivery via custom SMTP or Amazon SES
 * **Best For:** Privacy-conscious creators, publications, and businesses needing a dependable newsletter manager.
 
-### 10. [SendPortal](https://github.com/mettle/sendportal) [![GitHub stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers)
+### 10. [SendPortal](https://github.com/mettle/sendportal) [![GitHub_Stars](https://img.shields.io/github/stars/mettle/sendportal?style=social&color=white)](https://github.com/mettle/sendportal/stargazers)
 * **Stack:** PHP / Laravel / PostgreSQL / MySQL | **License:** MIT
 * **Overview:** Open-source email marketing platform built on Laravel. Features multi-tenant workspaces and seamless integrations with popular ESPs.
 * **Key Features:**
@@ -180,7 +180,7 @@ The repositories below are **sorted in descending order by GitHub Stars**:
   - 🏷️ Subscriber segment management with custom field attributes
 * **Best For:** Agencies, developers, and Laravel teams looking for a customizable email campaign management codebase.
 
-### 11. [Helio](https://github.com/achref-soua/helio) [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
+### 11. [Helio](https://github.com/achref-soua/helio) [![GitHub_Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
 * **Stack:** TypeScript / Temporal / PostgreSQL / ClickHouse | **License:** AGPL-3.0
 * **Overview:** Next-generation AI-native growth platform combining an embedded CDP, visual journey orchestration, and AI-assisted campaign drafting.
 * **Key Features:**
